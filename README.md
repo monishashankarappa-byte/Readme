@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m currently learning c programming language 
+I m currently learning c,java programming language 
 
 
 ## 🌐 Socials:
